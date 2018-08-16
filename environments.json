@@ -1,0 +1,8 @@
+{
+  "development": {
+    "proxy": "http://localhost:3001"
+  },
+  "production": {
+    "proxy": ""
+  }
+}
